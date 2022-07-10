@@ -80,9 +80,6 @@ a:hover,  a:active {
     text-align: center;
 }
 </style>
-
-<div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed with ❤ by ronil</a></p>
 </div>
         """
 
